@@ -7,7 +7,7 @@ ML-проект на синтетических данных онлайн-шко
 - заранее сигнализировать преподавателю о росте вероятности ошибок.
 
 ## Структура проекта
-attempt-prediction/
+```attempt-prediction/
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -20,7 +20,7 @@ attempt-prediction/
 ├── notebooks/
 │ └── attempt_prediction.ipynb
 └── src/
-└── cleaning.py
+└── cleaning.py```
 
 ## Данные
 
@@ -52,4 +52,4 @@ attempt-prediction/
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/attempt_prediction.ipynb
+jupyter notebook notebooks/attempt_prediction.ipynb ```
