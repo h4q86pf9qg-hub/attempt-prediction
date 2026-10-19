@@ -21,7 +21,7 @@ ML-проект на синтетических данных онлайн-шко
 │ └── attempt_prediction.ipynb
 └── src/
 └── cleaning.py
-
+```
 ## Данные
 
 Синтетические данные онлайн-школы (ЕГЭ). Подробное описание колонок — в [`data/README.md`](data/README.md).
@@ -52,4 +52,5 @@ ML-проект на синтетических данных онлайн-шко
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/attempt_prediction.ipynb ```
+jupyter notebook notebooks/attempt_prediction.ipynb 
+```
