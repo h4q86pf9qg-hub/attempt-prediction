@@ -20,7 +20,7 @@ ML-проект на синтетических данных онлайн-шко
 ├── notebooks/
 │ └── attempt_prediction.ipynb
 └── src/
-└── cleaning.py```
+└── cleaning.py
 
 ## Данные
 
